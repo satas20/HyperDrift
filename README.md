@@ -27,5 +27,6 @@ I also add some features like wheel trails , wheel visual rotation  and steering
 <img src="Media/Drift.gif" width="980">
 
 ## Assets
-Car asset = [SHADED: FREE Retro Car]([https://pages.github.com/](https://assetstore.unity.com/packages/3d/vehicles/land/shaded-free-retro-car-179873)).
+
+Car asset = [SHADED: FREE Retro Car](https://assetstore.unity.com/packages/3d/vehicles/land/shaded-free-retro-car-179873).
 
