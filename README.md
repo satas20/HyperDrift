@@ -18,12 +18,12 @@ I also add some features like wheel trails , wheel visual rotation  and steering
 
 ## Preview
 
-<p float="left">
-  <img src="Media/HyperDrift1.png" width="410" >
-  <img src="Media/HyperDrift2.png" height="300">
+<p >
+  <img src="Media/HyperDrift1.png" width="350" >
+  <img src="Media/HyperDrift2.png" height="255">
 </p>
 
-<img src="Media/Drift.gif" width="980">
+<img src="Media/Drift.gif" width="800">
 
 ## Assets
 
